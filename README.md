@@ -311,34 +311,29 @@ This additional verification helps ensure that the final exported file itself—
 | Duplicate Rows | Checked | Validated |
 
 ---
-
-# 🔍 Project Evidence
-
-The project includes visual evidence from the Python validation and final output stages.
-
----
+# 🔎 Project Evidence
 
 ## 1. Python Validation
 
-The automated sanity checks were successfully executed after the cleaning process.
+The dataset passed the automated sanity checks defined in the cleaning workflow.
 
-![Python validation](images/python_validation.PNG)
+![Python validation](images/python-validation.png)
 
 ---
 
 ## 2. Final Export Verification
 
-The exported dataset was reloaded and checked to confirm that the final output was valid.
+The exported dataset was reloaded and verified after the cleaning process.
 
-![Final export verification](images/final_export_verification.PNG)
+![Final export verification](images/final-export-verification.png)
 
 ---
 
 ## 3. Cleaned Dataset Preview
 
-A preview of the final cleaned dataset is included below.
+Preview of the final standardized customer dataset.
 
-![Cleaned dataset preview](images/Cleaned_data_preview.PNG)
+![Cleaned dataset preview](images/cleaned-data-preview.png)
 
 ---
 
